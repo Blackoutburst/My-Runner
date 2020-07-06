@@ -8,6 +8,14 @@ Simply use spacebar or up arrow to jump or switch gravity. Blue Block make you j
 [YouTube](https://www.youtube.com/watch?v=V4Yc-M2z8Zk)
 
 ## Screenshot
+Main menu
+![Main menu](/screen1.png)
+
+In game
+![In game](/screen2.png)
+
+Drop effect
+![Drop effect](/screen3.png)
 
 ## Special credits
 - Song used in the project ***[Getsix - Chase the Dragon](https://www.youtube.com/watch?v=BEfcKJ1WMuU)*** :heart:
