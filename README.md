@@ -4,6 +4,10 @@ My Runner (a.k.a PowerRun) is a Epitech school project, this is a game based on 
 ## Gameplay
 Simply use spacebar or up arrow to jump or switch gravity. Blue Block make you jump if you jump on them, Green block reverse gravity if you jump on them and red block kill you if you touch them, I made the hitbox really special to make the game more easy
 
+## How to build (Linux Only)
+Clone this repo anywhere and open a new command prompt inside the main folder and type ***make***. 
+Once the build is done in the command prompt type ***./my_runner*** or ***bash my_runner*** 
+
 ## Demo
 [YouTube](https://www.youtube.com/watch?v=V4Yc-M2z8Zk)
 
