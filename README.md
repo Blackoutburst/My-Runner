@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/My-Runner.svg)](LICENSE)
+
 # My Runner
 My Runner (a.k.a PowerRun) is a Epitech school project, this is a game based on Geometry dash created for school.
 
